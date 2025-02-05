@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d298eaf49be272fb51975b9df7b8c20eec79b99c8fe818c6ced1f7c46d76bfd4
-size 63
+python /home/jschosto/EdgeML/examples/tf/Bonsai/bonsai_mnist.py
