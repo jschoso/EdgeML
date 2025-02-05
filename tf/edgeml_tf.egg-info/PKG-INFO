@@ -1,7 +1,10 @@
 Metadata-Version: 2.1
 Name: edgeml-tf
 Version: 0.3.0
+Summary: UNKNOWN
+Home-page: UNKNOWN
 License: MIT License
+Platform: UNKNOWN
 
 ## Edge Machine Learning: Tensorflow Library 
 
@@ -50,3 +53,5 @@ pip install -e .
 
 Copyright (c) Microsoft Corporation. All rights reserved.
 Licensed under the MIT license.
+
+
